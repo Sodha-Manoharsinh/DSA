@@ -125,5 +125,6 @@ int main()
     cin >> num1;
     int result = gcd(num, num1);
     cout << result << endl;
-    return 0;
+
+        return 0;
 }
